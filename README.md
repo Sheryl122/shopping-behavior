@@ -4,7 +4,7 @@
 
 What are 6 analytical questions you can ask about this dataset?
 
-1. Is more money being spent based on pay methods?
+1. Which payment methods are yields the highest purchase amount overall?
 2. Which gender spends more in each season?
 3. Which age group spends the most in each location?
 4. What location has the highest frequency of spending per season?
